@@ -1,0 +1,56 @@
+{
+  "default": {
+    "non_consum": [
+      {
+        "id": "removeads",
+        "pkg": "musk.adventure.removeads",
+        "price": "1.99$",
+        "receiver": {
+          "removeads": 1
+        }
+      }
+    ],
+    "consum": [
+      {
+        "id": "gold_1",
+        "pkg": "musk.adventure.gold.01",
+        "price": "1.99$",
+        "receiver": {
+          "money": "gold:2000"
+        }
+      },
+      {
+        "id": "gold_2",
+        "pkg": "musk.adventure.gold.02",
+        "price": "4.99$",
+        "receiver": {
+          "money": "gold:7000"
+        }
+      },
+      {
+        "id": "potion_pack",
+        "pkg": "musk.adventure.potion.pack",
+        "price": "9.99$",
+        "receiver": {
+          "items": "potion:30"
+        }
+      },
+      {
+        "id": "shield_pack",
+        "pkg": "musk.adventure.shield.pack",
+        "price": "9.99$",
+        "receiver": {
+          "items": "shield:30"
+        }
+      },
+      {
+        "id": "bomb_pack",
+        "pkg": "musk.adventure.bomb.pack",
+        "price": "9.99$",
+        "receiver": {
+          "items": "bomb:30"
+        }
+      }
+    ]
+  }
+}

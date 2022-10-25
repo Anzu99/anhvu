@@ -1,0 +1,13 @@
+character_2.png
+size:2272,1728
+filter:Linear,Linear
+pma:true
+Body
+bounds:2,2,1768,1721
+Eye
+bounds:1772,490,610,472
+offsets:2,2,613,475
+rotate:90
+Jaw
+bounds:1772,1102,498,621
+offsets:1,2,500,625

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950011312157",
+    "project_id": "marioadventure-f32a6",
+    "storage_bucket": "marioadventure-f32a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950011312157:android:c54e35bf37b104c0022ef4",
+        "android_client_info": {
+          "package_name": "com.xgame.supermusk.adventure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950011312157-utpjoet18q75f6kfkvmb0t3v6pkoeo7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuUk4I6MNoth9LSrGSXILGfp39gpynuqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950011312157-utpjoet18q75f6kfkvmb0t3v6pkoeo7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

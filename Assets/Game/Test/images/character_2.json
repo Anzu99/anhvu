@@ -1,0 +1,24 @@
+{ "skeleton": { "images": "C:/Users/Admin/Desktop/New folder/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Shape 3", "bone": "root", "attachment": "Shape 3" },
+	{ "name": "eye", "bone": "root", "attachment": "eye" },
+	{ "name": "mieng", "bone": "root", "attachment": "mieng" }
+],
+"skins": {
+	"default": {
+		"Shape 3": {
+			"Shape 3": { "x": 1293, "y": -1901.5, "width": 1768, "height": 1721 }
+		},
+		"eye": {
+			"eye": { "x": 1640.5, "y": -1387.5, "width": 613, "height": 475 }
+		},
+		"mieng": {
+			"mieng": { "x": 1782, "y": -1790.5, "width": 500, "height": 625 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
